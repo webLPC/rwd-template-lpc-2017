@@ -1,10 +1,10 @@
 <h2>Site Administrator</h2>
-      
-<p><strong>Dayna Barbero PHN, FNP-C</strong><br />
-Stanford HealthCare ValleyCare<br />
-Family Nurse Practitioner</p>
 
-<p>925.424.1831<br /><a href="mailto:dbarbero@laspositascollege.edu">dbarbero@laspositascollege.edu</a></p>
+<p><strong>Firstname Lastname</strong><br />
+Department<br />
+Title</p>
+
+<p>925.424.5555<br /><a href="mailto:email@laspositascollege.edu">email@laspositascollege.edu</a></p>
 
 <h2>Office Hours</h2>
 
